@@ -27,7 +27,7 @@
      * process_data.py
      
 * \models
-      * train_classifier.py
+   * train_classifier.py
    
 * \img
    * Screenshot 1.png
