@@ -1,5 +1,7 @@
 # Disaster Response Pipeline Project
 
+ In this project, I analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages. I find a data set containing real messages that were sent during disaster events
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
