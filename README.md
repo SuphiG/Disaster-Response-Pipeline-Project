@@ -14,3 +14,6 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+![Screenshot 1](https://user-images.githubusercontent.com/58215303/82330889-114fde80-99ec-11ea-80a4-7f5c00b39cb6.PNG)
