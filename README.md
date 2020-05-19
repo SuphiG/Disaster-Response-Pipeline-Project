@@ -11,3 +11,17 @@
 
 ### File Descriptions:
 
+  * README.md
+  
+  *	\app
+       * run.py
+       * \templates
+           * go.html
+           * master.html
+
+
+* \data
+     * DisasterResponse.db
+     * disaster_categories.csv
+     * disaster_messages.csv
+     * process_data.py
