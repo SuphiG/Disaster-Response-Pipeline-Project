@@ -25,3 +25,10 @@
      * disaster_categories.csv
      * disaster_messages.csv
      * process_data.py
+     
+* \models
+   * classifier.pkl 
+   * train_classifier.py
+   
+     
+     
